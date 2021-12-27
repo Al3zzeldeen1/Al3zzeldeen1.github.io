@@ -1,0 +1,73 @@
+﻿<<!DOCTYPE html>
+<html>
+  <head>
+ 
+     <meta name="author" content="Izzeldeen" />
+     <meta name="desription" conten="that page contains some infos"/>
+   </head>
+     <body>
+       <!--links-->
+	 <body bgcolor="beige" text="navy"  dir="rtl"><center>
+  
+  <table border=2 width=100%>
+  
+       <tr>
+	   <td><img src="لوقو.jpeg"width="60" height="60" />Shop online
+
+	   </td>
+	   
+	   </tr>
+
+<body>
+ <table>
+    <tr>
+	   <ul id="menu">
+	   <td> <button onclick="document.location='azooz.html'">الصفحة الرئيسية</button>
+	   </td>
+	   <td> <button onclick="document.location='%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B6.html'">العروض</button>
+	   </td>
+	   <td>  <button onclick="document.location='izzeldeen.html'">اتصل بنا</button>
+	   </td>
+	   <td> <button onclick="document.location='%D8%A7%D9%84%D8%A7%D8%AF%D9%88%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9.html'">الادوات المنزلية</button>
+	   </td>
+	   </ul>  
+</table>
+</body>
+<h2>
+تلفزيون توشيبا بشاشة إل إي دي سمارت بتقنية 4K حجم 65 إنش موديل 65U5965EE لون أسود
+</h2>
+              <h6>
+JOD 633.000(شامل قيمة الضريبة)</h6>
+
+<b>
+أهم المميزات
+</b>
+<p>
+لعلامة التجارية: تلفزيون توشيبا
+النوع: LED Smart 4K
+الحجم: 65 بوصة
+نموذج: 65U5965EE
+لون أسود</p>
+<img src="download4.jpg"width="400" height="300" >
+<img src="download5.jpg"width="200" height="300" >
+
+<h2>
+هايسنس تلفزيون إل إي دي 55U7WF سمارت بتقنية 4K حجم 55 إنش لون أسود
+</h2>
+<h6>
+JOD 450.000(شامل قيمة الضريبة)
+</h6>
+<b>
+أهم المميزات
+</b>
+<p>
+مجموعة ألوان واسعة - تضفي الحيوية على لوحة أكبر من الألوان الغنية ، حيث يتم إنتاج الألوان الزاهية والأصلية فقط ، وبالتالي فإن تجربة المشاهدة أقرب من أي وقت مضى إلى العالم الحقيقي
+
+تقنية Dolby Vision HDR - توفر إضاءة أكثر سطوعًا حتى 40 مرة والأسود أغمق 10 مرات. مستوحاة من تقنية السينما ، تمنح تقنية Dolby Vision HDR الصور الناتجة سطوعًا مذهلاً وعمقًا تباينًا.
+
+
+
+لا تفوت أي صوت. يتم التعرف على الحوار تلقائيًا وفصله عن ضوضاء الخلفية للحصول على تجربة صوتية أوضح. يمكنك أيضًا الاستماع بأصوات أعلى بدون تشويه.
+</p>
+<img src="download (1).jpg"width="200" height="300" >
+<img src="download (2).jpg"width="200" height="300" >
